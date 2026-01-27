@@ -1,10 +1,8 @@
-## Hi there 👋
-
-- 🌱 I’m currently learning SQL,Java
-- 📫 How to reach me: innovativeden0@gmail.com
 
 
 <h2 align="left">Hiii👋! I'm Sathya</h2>
+- 🌱 I’m currently learning SQL,Java
+- 📫 How to reach me: innovativeden0@gmail.com
 
 ###
 
