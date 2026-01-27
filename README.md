@@ -38,12 +38,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SathyaMeka33/SathyaMeka33/output/snake.svg" alt="Snake animation" />
+<p align="left">🚀 About Me:<br><br>Hi! I'm **M.V.V. Satyanarayana**, a **Data Science undergraduate** from  <br>🎓 **Aditya College of Engineering and Technology**<br><br>🤝 Open to collaboration, internships, and learning opportunities</p>
 
 ###
-
 <p align="left">🚀 About Me:<br><br>Hi! I'm **M.V.V. Satyanarayana**, a **Data Science undergraduate** from  <br>🎓 **Aditya College of Engineering and Technology**<br><br>🤝 Open to collaboration, internships, and learning opportunities</p>
 
 ###
